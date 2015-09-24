@@ -59,6 +59,19 @@ var app = {
         }
         return arr;
     }
+
+//Argh didnt have enough time to finish this function! 
+    addToTop: function addToTop (arr, item) {
+        for (i=0; i<arr.length; i++ ){
+            if (app.getItemFromList(arr, item === -1) {
+                return arr; 
+            }
+
+        }
+        
+
+    }
+        
 };
 
 var testArray = ["a","b","c"];
